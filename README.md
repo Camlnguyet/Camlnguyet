@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Camlnguyet
 - 👀 I’m interested in everthing about computer without the physically thing
-- 🌱 I’m currently learning C and Python.
+- 🌱 I’m currently learning C# and Python.
 - 💞️ I’m looking to collaborate on Developments.
 - 📫 How to reach me, direct message me.
 
